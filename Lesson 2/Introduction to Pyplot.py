@@ -7,13 +7,6 @@
 
 
 import matplotlib.pyplot as plt
-
-
-# ### Plotting first data
-
-# In[2]:
-
-
 data = [1,2,3,4,5]
 plt.plot(data)
 plt.show()
