@@ -1,5 +1,5 @@
-# Data_visualization_with_Matplotlib_in_Python
- Python code as well Jupyter Notebook for each lesson
+# Mastering Matplotlib with Python
+## A hands-on guide to data visualization for Beginners using Python & Jupyter Notebook
  
  Each Folder contains 3 types of file for every lesson
 1) html file (To open in browser)
