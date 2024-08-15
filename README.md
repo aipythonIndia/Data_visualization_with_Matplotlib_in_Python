@@ -5,3 +5,8 @@
 1) html file (To open in browser)
 2) py file (Python 3 file)
 3) ipynb (Jupyter Notebook file)
+
+
+
+<b>Author</b>
+: Pranav Raj
